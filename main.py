@@ -2,11 +2,10 @@ import time
 import random
 import requests
 from typing import List, Dict, Set
-import matplotlib.pyplot as plt
 import streamlit as st
 import pandas as pd
 
-
+# Replace with your actual SerpAPI key
 SERPAPI_API_KEY = "a50fd208b1dbed6c62705fe9f3c55676189edc80d2f3d195994aa898bfd63bb3"
 
 # Real-world API-based search engine fetch using SerpAPI
